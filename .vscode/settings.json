@@ -1,0 +1,13 @@
+{
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "editor.insertSpaces": true,
+    "files.associations": {
+        "*.module": "php"
+    },
+    "phpunit.files": "{test,tests}/**/*Test.php"
+}

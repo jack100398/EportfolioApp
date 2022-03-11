@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "bmewburn.vscode-intelephense-client",
+        "neilbrayfield.php-docblocker",
+        "junstyle.php-cs-fixer",
+        "recca0120.vscode-phpunit",
+        "wayou.vscode-todo-highlight",
+        "editorconfig.editorconfig",
+        "streetsidesoftware.code-spell-checker",
+        "felixfbecker.php-debug"
+    ]
+}
